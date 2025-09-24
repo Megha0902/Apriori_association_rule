@@ -7,7 +7,7 @@ This project demonstrates how to use the **Apriori algorithm** for **market bask
 
 ## 🚀 Features
 
-* Implements the **Apriori algorithm** from scratch / using `mlxtend` (mention whichever you use).
+* Implements the **Apriori algorithm** from scratch / using `mlxtend` .
 * Generates **frequent itemsets**.
 * Derives **association rules** (support, confidence, lift).
 * Builds a **recommendation system** based on rules.
